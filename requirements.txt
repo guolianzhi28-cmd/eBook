@@ -1,0 +1,2 @@
+# Python dependencies for the audiobook project
+# Add required packages here as the project evolves.
